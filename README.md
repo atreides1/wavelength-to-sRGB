@@ -1,5 +1,5 @@
 # Wavelength to sRGB
-A few functions for converting from wavelength to sRGB
+A few functions for converting from wavelength (nm) to sRGB
 
 # Background
   The CIE, or Commission Internationale de l’Eclairage, 
